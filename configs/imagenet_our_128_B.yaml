@@ -36,6 +36,7 @@ model:
       ch: 128
       ch_mult: [1,2,2,4]  # num_down = len(ch_mult)-1
       num_res_blocks: 2
+      depth: 3
 
     quantconfig:
       target: taming.modules.vqvae.quantize.SimVQ

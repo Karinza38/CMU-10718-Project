@@ -183,3 +183,4 @@ class SimVQ1D(SimVQ):
 
         return (z_q, torch.tensor(0.0), min_encoding_indices), LossBreakdown(torch.tensor(0.0), torch.tensor(0.0), commit_loss, torch.tensor(0.0))
 
+
