@@ -1,4 +1,4 @@
-# CMU 10718 Project 
+ # CMU 10718 Project 
 
 This repo is adapted from SimVQ repo -- https://github.com/youngsheen/SimVQ. 
 Thanks to https://github.com/lucidrains/vector-quantize-pytorch, it provides a concise implementation for most VQ methods has saved me a lot of trouble.
